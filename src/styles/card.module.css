@@ -1,0 +1,6 @@
+.cardContainer {
+    background-color: rgb(159, 233, 48);
+    border: 1px black 10px;
+    padding: 2em;
+    color: white;
+}
